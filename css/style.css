@@ -1,0 +1,9 @@
+footer {
+    background-color: grey;
+    height: 200px;
+    text-align: center;
+    font-size: 40px;
+}
+.main{
+    min-height: 90vh;
+}
